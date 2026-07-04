@@ -48,9 +48,9 @@ AI & Neurotechnology       →  Model evaluation · Neurofeedback · Protocol de
 
 <div align="center">
 
-![Travis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TravisBeckwith&show_icons=true&theme=dark&hide_border=true&count_private=false&include_all_commits=true)
+![GitHub Stats](./profile/stats.svg)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TravisBeckwith&layout=compact&theme=dark&hide_border=true)
+![Top Languages](./profile/top-langs.svg)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TravisBeckwith&theme=dark&hide_border=true)
 
