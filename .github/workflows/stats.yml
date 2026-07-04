@@ -1,33 +1,37 @@
-name: Update README cards
+name: Update README Stats Cards
 on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
+
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@v4
+
       - name: Generate stats card
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=TravisBeckwith&show_icons=true&theme=dark&hide_border=true
+          options: username=TravisBeckwith&show_icons=true&theme=dark&hide_border=true&count_private=false
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Generate top languages card
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=TravisBeckwith&layout=compact&theme=dark&hide_border=true
+          options: username=TravisBeckwith&layout=compact&theme=dark&hide_border=true&langs_count=6
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-      - name: Commit cards
+
+      - name: Commit and push cards
         run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add profile/
-          git diff --cached --quiet || git commit -m "Update stats cards"
+          git diff --cached --quiet || git commit -m "chore: update stats cards"
           git push
