@@ -58,11 +58,11 @@ AI & Neurotechnology       →  Model evaluation · Neurofeedback · Protocol de
 
 ## 📄 Selected Publications
 
-**Beckwith T**, Cecil K, Altaye M, et al. (2020). Reduced gray matter volume and cortical thickness associated with traffic-related air pollution in a longitudinally studied pediatric cohort. *PLOS ONE*, 15(1): e0228092.
-[![DOI](https://img.shields.io/badge/DOI-10.1371%2Fjournal.pone.0228092-blue)](https://doi.org/10.1371/journal.pone.0228092)
-
 **Beckwith TJ**, Dietrich KN, Wright JP, Altaye M, Cecil KM. (2021). Criminal arrests associated with reduced regional brain volumes in an adult population with documented childhood lead exposure. *Environmental Research*, 201: 111559.
 [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.envres.2021.111559-blue)](https://doi.org/10.1016/j.envres.2021.111559)
+
+**Beckwith T**, Cecil K, Altaye M, et al. (2020). Reduced gray matter volume and cortical thickness associated with traffic-related air pollution in a longitudinally studied pediatric cohort. *PLOS ONE*, 15(1): e0228092.
+[![DOI](https://img.shields.io/badge/DOI-10.1371%2Fjournal.pone.0228092-blue)](https://doi.org/10.1371/journal.pone.0228092)
 
 **Beckwith TJ**, Dietrich KN, Wright JP, Altaye M, Cecil KM. (2018). Reduced regional volumes associated with total psychopathy scores in an adult population with childhood lead exposure. *Neurotoxicology*, 67: 1–26.
 [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.neuro.2018.04.009-blue)](https://doi.org/10.1016/j.neuro.2018.04.009)
