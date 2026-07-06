@@ -90,7 +90,7 @@ AI & Neurotechnology       →  Model evaluation · Neurofeedback · Protocol de
 
 **Neuroimaging:** FSL · AFNI · FreeSurfer · fMRIPrep · SPM · MRtrix3 · ANTs · dipy
 
-**Programming:** Python · R · MATLAB · Bash · Julia (learning)
+**Programming:** Python · R · MATLAB · Bash · SQL (learning)
 
 **Infrastructure:** Docker · Singularity · HPC/SLURM · BIDS · Git
 
