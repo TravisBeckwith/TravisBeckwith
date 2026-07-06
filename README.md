@@ -65,7 +65,7 @@ AI & Neurotechnology       →  Model evaluation · Neurofeedback · Protocol de
 [![DOI](https://img.shields.io/badge/DOI-10.1371%2Fjournal.pone.0228092-blue)](https://doi.org/10.1371/journal.pone.0228092)
 
 **Beckwith TJ**, Dietrich KN, Wright JP, Altaye M, Cecil KM. (2018). Reduced regional volumes associated with total psychopathy scores in an adult population with childhood lead exposure. *Neurotoxicology*, 67: 1–26.
-[![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.neuro.2018.04.009-blue)](https://doi.org/10.1016/j.neuro.2018.04.009)
+[![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.neuro.2018.04.004-blue)](https://doi.org/10.1016/j.neuro.2018.04.004)
 
 ---
 
@@ -95,6 +95,12 @@ AI & Neurotechnology       →  Model evaluation · Neurofeedback · Protocol de
 **Infrastructure:** Docker · Singularity · HPC/SLURM · BIDS · Git
 
 **Statistics:** Mixed-effects models · GLM · Mediation · Multivariate methods · Longitudinal trajectory analysis
+
+---
+
+## 🗣️ Languages
+
+**English** — Native / fluent  ·  **Spanish** — Basic
 
 ---
 
