@@ -44,6 +44,7 @@ AI & Neurotechnology       →  Model evaluation · Neurofeedback · Protocol de
 | [**NERVES**](https://github.com/TravisBeckwith/NERVES) | Normalized Entropy Representation of Voxelwise Eigenvalue Spectra for microstructural diffusion mapping | Python |
 | [**neuromediate**](https://github.com/TravisBeckwith/neuromediate) | Mediation analysis framework for MRI data | Python |
 | [**NeuroRig**](https://github.com/TravisBeckwith/NeuroRig) | Assess your system's ability to run common MRI processing software | Python |
+| [**QSI-extract**](https://github.com/TravisBeckwith/QSI-extract) | BIDS-aware extraction of NODDI and DTI scalars from QSIPrep/QSIRecon into tidy longitudinal tables, with NODDI assumption auditing and QC propagation | Python |
 
 ---
 
@@ -52,7 +53,7 @@ AI & Neurotechnology       →  Model evaluation · Neurofeedback · Protocol de
 | Project | Status | Description |
 |---|---|---|
 | [**kinetispect**](https://github.com/TravisBeckwith/kinetispect) | 🚧 Active | fMRS simulator for functional magnetic resonance spectroscopy |
-| [**QSI-extract**](https://github.com/TravisBeckwith/QSI-extract) | 🧪 Beta | Quantitative metric extraction from q-space imaging data |
+
 
 ---
 
