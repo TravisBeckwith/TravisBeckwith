@@ -7,6 +7,7 @@
 ### Neuroimaging · MRI Pipelines · Longitudinal Data · Reproducible Science
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/travisbeckwith-phd)
+[![CV](https://img.shields.io/badge/CV-1A1A2E?style=for-the-badge&logo=readthedocs&logoColor=white)](https://travisbeckwith.github.io/CV)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Travis_Beckwith)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:travis.beckwith@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=TravisBeckwith&color=0077B5&style=for-the-badge)
@@ -38,6 +39,7 @@ AI & Neurotechnology       →  Model evaluation · Neurofeedback · Protocol de
 
 | Project | Description | Stack |
 |---|---|---|
+| [**SMILD**](https://github.com/TravisBeckwith/SMILD) | Novel voxelwise reliability measure for the Standard Model diffusion-MRI degeneracy — quantifies whether biophysical microstructure estimates (NODDI, SMT, WMTI) are actually identifiable from the data. POC validated, theory paper in `docs/` | Python |
 | [**dwiforge**](https://github.com/TravisBeckwith/dwiforge) | ML-enhanced DTI processing pipeline with checkpointing, structured logging, and automated QC | Shell · Python |
 | [**fsglean**](https://github.com/TravisBeckwith/fsglean) | BIDS-aware extraction of FreeSurfer stats into tidy, longitudinal tables | Python |
 | [**BIDS_convert**](https://github.com/TravisBeckwith/BIDS_convert) | DICOM-to-BIDS converter across all major modalities with parallel processing and provenance archival | Shell |
@@ -52,8 +54,8 @@ AI & Neurotechnology       →  Model evaluation · Neurofeedback · Protocol de
 
 | Project | Status | Description |
 |---|---|---|
+| [**SMILD**](https://github.com/TravisBeckwith/SMILD) | 🚧 Active | Production two-branch solver (RotInv/LEMONADE) for real multi-shell DWI, plus ABCD Study validation |
 | [**kinetispect**](https://github.com/TravisBeckwith/kinetispect) | 🚧 Active | fMRS simulator for functional magnetic resonance spectroscopy |
-
 
 ---
 
