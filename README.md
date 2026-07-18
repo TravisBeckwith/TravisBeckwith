@@ -35,27 +35,48 @@ AI & Neurotechnology       →  Model evaluation · Neurofeedback · Protocol de
 
 ---
 
-## 🛠️ Featured Tools
+## 🛠️ Tools & Pipelines
+
+Organized by where each tool sits in a neuroimaging workflow — acquisition through analysis.
+
+**Data Acquisition & Conversion**
 
 | Project | Description | Stack |
 |---|---|---|
-| [**SMILD**](https://github.com/TravisBeckwith/SMILD) | Novel voxelwise reliability measure for the Standard Model diffusion-MRI degeneracy — quantifies whether biophysical microstructure estimates (NODDI, SMT, WMTI) are actually identifiable from the data. POC validated, theory paper in `docs/` | Python |
-| [**dwiforge**](https://github.com/TravisBeckwith/dwiforge) | ML-enhanced DTI processing pipeline with checkpointing, structured logging, and automated QC | Shell · Python |
-| [**fsglean**](https://github.com/TravisBeckwith/fsglean) | BIDS-aware extraction of FreeSurfer stats into tidy, longitudinal tables | Python |
 | [**BIDS_convert**](https://github.com/TravisBeckwith/BIDS_convert) | DICOM-to-BIDS converter across all major modalities with parallel processing and provenance archival | Shell |
-| [**NERVES**](https://github.com/TravisBeckwith/NERVES) | Normalized Entropy Representation of Voxelwise Eigenvalue Spectra for microstructural diffusion mapping | Python |
-| [**neuromediate**](https://github.com/TravisBeckwith/neuromediate) | Mediation analysis framework for MRI data | Python |
-| [**NeuroRig**](https://github.com/TravisBeckwith/NeuroRig) | Assess your system's ability to run common MRI processing software | Python |
+
+**Processing Pipelines**
+
+| Project | Description | Stack |
+|---|---|---|
+| [**dwiforge**](https://github.com/TravisBeckwith/dwiforge) | ML-enhanced DTI processing pipeline with checkpointing, structured logging, and automated QC | Shell · Python |
+
+**Extraction & Tabulation**
+
+| Project | Description | Stack |
+|---|---|---|
+| [**fsglean**](https://github.com/TravisBeckwith/fsglean) | BIDS-aware extraction of FreeSurfer stats into tidy, longitudinal tables | Python |
 | [**QSI-extract**](https://github.com/TravisBeckwith/QSI-extract) | BIDS-aware extraction of NODDI and DTI scalars from QSIPrep/QSIRecon into tidy longitudinal tables, with NODDI assumption auditing and QC propagation | Python |
 
----
+**Statistical Analysis**
 
-## 🔭 Currently Building
-
-| Project | Status | Description |
+| Project | Description | Stack |
 |---|---|---|
-| [**SMILD**](https://github.com/TravisBeckwith/SMILD) | 🚧 Active | Production two-branch solver (RotInv/LEMONADE) for real multi-shell DWI, plus ABCD Study validation |
-| [**kinetispect**](https://github.com/TravisBeckwith/kinetispect) | 🚧 Active | fMRS simulator for functional magnetic resonance spectroscopy |
+| [**neuromediate**](https://github.com/TravisBeckwith/neuromediate) | Mediation analysis framework for MRI data | Python |
+
+**Novel Methods & Simulation**
+
+| Project | Status | Description | Stack |
+|---|---|---|---|
+| [**SMILD**](https://github.com/TravisBeckwith/SMILD) | 🚧 Active — POC validated; production two-branch solver (RotInv/LEMONADE) and ABCD Study validation in progress | Novel voxelwise reliability measure for the Standard Model diffusion-MRI degeneracy — quantifies whether biophysical microstructure estimates (NODDI, SMT, WMTI) are actually identifiable from the data. Theory paper in `docs/` | Python |
+| [**NERVES**](https://github.com/TravisBeckwith/NERVES) | — | Normalized Entropy Representation of Voxelwise Eigenvalue Spectra for microstructural diffusion mapping | Python |
+| [**kinetispect**](https://github.com/TravisBeckwith/kinetispect) | 🚧 Active | fMRS simulator for functional magnetic resonance spectroscopy | — |
+
+**Infrastructure & Utilities**
+
+| Project | Description | Stack |
+|---|---|---|
+| [**NeuroRig**](https://github.com/TravisBeckwith/NeuroRig) | Assess your system's ability to run common MRI processing software | Python |
 
 ---
 
