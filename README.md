@@ -78,6 +78,12 @@ Organized by where each tool sits in a neuroimaging workflow — acquisition thr
 |---|---|---|
 | [**NeuroRig**](https://github.com/TravisBeckwith/NeuroRig) | Assess your system's ability to run common MRI processing software | Python |
 
+**Other Research Tooling**
+
+| Project | Description | Stack |
+|---|---|---|
+| [**surveykit-ml**](https://github.com/TravisBeckwith/surveykit-ml) | Statistical analysis and machine learning toolkit for survey data — factor analysis, reliability testing, group comparisons, and classification/clustering for reproducible research pipelines | Python |
+
 ---
 
 ## 📄 Selected Publications
