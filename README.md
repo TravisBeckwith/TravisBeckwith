@@ -9,8 +9,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/travisbeckwith-phd)
 [![CV](https://img.shields.io/badge/CV-1A1A2E?style=for-the-badge&logo=readthedocs&logoColor=white)](https://travisbeckwith.github.io/CV)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Travis_Beckwith)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-6128-8464)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:travis.beckwith@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=TravisBeckwith&color=0077B5&style=for-the-badge)
+
+[![Citations](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.openalex.org%2Fauthors%2Forcid%3A0000-0001-6128-8464&label=Citations&query=%24.cited_by_count&color=00CCBB&style=flat-square)](https://orcid.org/0000-0001-6128-8464)
+[![H-Index](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.openalex.org%2Fauthors%2Forcid%3A0000-0001-6128-8464&label=H-Index&query=%24.summary_stats.h_index&color=1A1A2E&style=flat-square)](https://orcid.org/0000-0001-6128-8464)
+[![Works](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.openalex.org%2Fauthors%2Forcid%3A0000-0001-6128-8464&label=Publications&query=%24.works_count&color=555555&style=flat-square)](https://orcid.org/0000-0001-6128-8464)
 
 </div>
 
