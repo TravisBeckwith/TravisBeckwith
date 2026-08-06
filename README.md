@@ -9,6 +9,7 @@
 [![CV](https://img.shields.io/badge/CV-1A1A2E?style=for-the-badge&logo=readthedocs&logoColor=white)](https://travisbeckwith.github.io/CV)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Travis_Beckwith)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-6128-8464)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=wolY848AAAAJ&hl=en)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:travis.beckwith@gmail.com)
 
 </div>
@@ -19,7 +20,7 @@
 
 15+ years extracting signal from complex biomedical and neuroimaging datasets — as principal neuroimaging analyst on three NIH-funded longitudinal cohorts, postdoctoral fellow in neurotrauma, and now as a neurotechnology adviser and AI domain expert. I build the infrastructure that makes analyses reproducible, not just the analyses.
 
-**11 peer-reviewed publications · 388 citations · h-index: 10**
+**11 peer-reviewed publications · 385+ citations · h-index: 10**
 
 ---
 
@@ -48,7 +49,7 @@ Organized by where each tool sits in a neuroimaging workflow — acquisition thr
 
 | Project | Description | Stack |
 |---|---|---|
-| [**dwiforge**](https://github.com/TravisBeckwith/dwiforge) | ML-enhanced DTI processing pipeline with checkpointing, structured logging, and automated QC | Shell · Python |
+| [**dwiforge**](https://github.com/TravisBeckwith/dwiforge) | ML-enhanced DTI processing pipeline with checkpointing, structured logging, and automated QC — methods paper in preparation | Shell · Python |
 
 **Extraction & Tabulation**
 
@@ -92,6 +93,7 @@ Organized by where each tool sits in a neuroimaging workflow — acquisition thr
 
 **Beckwith T**, Cecil K, Altaye M, et al. (2020). Reduced gray matter volume and cortical thickness associated with traffic-related air pollution in a longitudinally studied pediatric cohort. *PLOS ONE*, 15(1): e0228092.
 [![DOI](https://img.shields.io/badge/DOI-10.1371%2Fjournal.pone.0228092-blue)](https://doi.org/10.1371/journal.pone.0228092)
+Altmetric Attention Score 425 (top 5% of all research outputs); covered by Reuters, Daily Mail, and ScienceDaily.
 
 **Beckwith TJ**, Dietrich KN, Wright JP, Altaye M, Cecil KM. (2018). Reduced regional volumes associated with total psychopathy scores in an adult population with childhood lead exposure. *Neurotoxicology*, 67: 1–26.
 [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.neuro.2018.04.004-blue)](https://doi.org/10.1016/j.neuro.2018.04.004)
