@@ -19,7 +19,7 @@
 
 15+ years extracting signal from complex biomedical and neuroimaging datasets — as principal neuroimaging analyst on three NIH-funded longitudinal cohorts, postdoctoral fellow in neurotrauma, and now as a neurotechnology adviser and AI domain expert. I build the infrastructure that makes analyses reproducible, not just the analyses.
 
-**11 peer-reviewed publications · 385+ citations · h-index: 10**
+**11 peer-reviewed publications · 388 citations · h-index: 10**
 
 ---
 
