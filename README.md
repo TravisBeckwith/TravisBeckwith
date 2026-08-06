@@ -6,12 +6,10 @@
 
 ### Neuroimaging · MRI Pipelines · Longitudinal Data · Reproducible Science
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/travisbeckwith-phd)
 [![CV](https://img.shields.io/badge/CV-1A1A2E?style=for-the-badge&logo=readthedocs&logoColor=white)](https://travisbeckwith.github.io/CV)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Travis_Beckwith)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-6128-8464)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:travis.beckwith@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=TravisBeckwith&color=0077B5&style=for-the-badge)
 
 </div>
 
@@ -104,14 +102,7 @@ Organized by where each tool sits in a neuroimaging workflow — acquisition thr
 
 <div align="center">
 
-![Travis's GitHub Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./profile/snake.svg" />
-  <img alt="contribution snake" src="./profile/snake.svg" />
-</picture>
 
 </div>
 
@@ -121,17 +112,13 @@ Organized by where each tool sits in a neuroimaging workflow — acquisition thr
 
 **Neuroimaging:** FSL · AFNI · FreeSurfer · fMRIPrep · SPM · MRtrix3 · ANTs · dipy
 
-**Programming:** Python · R · MATLAB · Bash · SQL (learning)
+**Programming:** Python · R · MATLAB · Bash · SQL
 
 **Infrastructure:** Docker · Singularity · HPC/SLURM · BIDS · Git
 
 **Statistics:** Mixed-effects models · GLM · Mediation · Multivariate methods · Longitudinal trajectory analysis
 
----
-
-## 🗣️ Languages
-
-**English** — Native / fluent  ·  **Spanish** — Basic
+**Languages:** English (native) · Spanish (basic)
 
 ---
 
