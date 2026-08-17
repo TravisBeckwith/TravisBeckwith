@@ -70,6 +70,7 @@ Organized by where each tool sits in a neuroimaging workflow — acquisition thr
 | Project | Status | Description | Stack |
 |---|---|---|---|
 | [**SMILD**](https://github.com/TravisBeckwith/SMILD) | 🚧 Active — POC validated; production two-branch solver (RotInv/LEMONADE) and ABCD Study validation in progress | Novel voxelwise reliability measure for the Standard Model diffusion-MRI degeneracy — quantifies whether biophysical microstructure estimates (NODDI, SMT, WMTI) are actually identifiable from the data. Theory paper in `docs/` | Python |
+| [**krige-bold**](https://github.com/TravisBeckwith/krige-bold) | 🧪 Pilot — synthetic-data validated (incl. ablation vs. rank-truncation alone); not yet benchmarked on real fMRI or against MPPCA/NORDIC | Geostatistical Functional Denoising for fMRI BOLD time series — combines Marchenko–Pastur random-matrix theory (objective signal/noise rank selection) with per-component functional kriging (spatially-varying smoothing) in place of one fixed isotropic kernel | Python |
 | [**NERVES**](https://github.com/TravisBeckwith/NERVES) | ✅ Verified — core NDE math independently checked 3 ways; 2 real bugs found & fixed (report-writing crash, FA mislabeling); CI added | Normalized Entropy Representation of Voxelwise Eigenvalue Spectra for microstructural diffusion mapping | Python |
 | [**kinetispect**](https://github.com/TravisBeckwith/kinetispect) | 🚧 Active | fMRS simulator for functional magnetic resonance spectroscopy | — |
 
