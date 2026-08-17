@@ -10,6 +10,7 @@
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Travis_Beckwith)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-6128-8464)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=wolY848AAAAJ&hl=en)
+[![OpenAlex](https://img.shields.io/badge/OpenAlex-2C9CDB?style=for-the-badge&logoColor=white)](https://openalex.org/authors/A5067769252)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:travis.beckwith@gmail.com)
 
 </div>
