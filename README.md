@@ -64,6 +64,7 @@ Organized by where each tool sits in a neuroimaging workflow — acquisition thr
 | Project | Description | Stack |
 |---|---|---|
 | [**neuromediate**](https://github.com/TravisBeckwith/neuromediate) | Mediation analysis framework for MRI data | Python |
+| [**data-trance**](https://github.com/TravisBeckwith/data-trance) | Config-driven pipeline that diagnoses a column's distribution (skew, kurtosis, normality) before touching it, then recommends and applies the least-lossy appropriate transform — rule-based, ML, or DL recommender methods | Python |
 
 **Novel Methods & Simulation**
 
@@ -79,12 +80,26 @@ Organized by where each tool sits in a neuroimaging workflow — acquisition thr
 | Project | Description | Stack |
 |---|---|---|
 | [**NeuroRig**](https://github.com/TravisBeckwith/NeuroRig) | Assess your system's ability to run common MRI processing software | Python |
+| [**updoot-inator**](https://github.com/TravisBeckwith/updoot-inator) | Script to update all packages | Shell |
+| [**del-doot-inator**](https://github.com/TravisBeckwith/del-doot-inator) | Removes cached downloads and leftover files | Shell |
 
 **Other Research Tooling**
 
 | Project | Description | Stack |
 |---|---|---|
 | [**surveykit-ml**](https://github.com/TravisBeckwith/surveykit-ml) | Statistical analysis and machine learning toolkit for survey data — factor analysis, reliability testing, group comparisons, and classification/clustering for reproducible research pipelines | Python |
+
+---
+
+## 📚 Other Projects
+
+Outside the neuroimaging stack — writing, tooling, and career-adjacent projects.
+
+| Project | Description | Stack |
+|---|---|---|
+| [**Comprehensive-Stats-Book**](https://github.com/TravisBeckwith/Comprehensive-Stats-Book) | In-depth statistics reference document | — |
+| [**gistcv**](https://github.com/TravisBeckwith/gistcv) | Uses your resume/CV to generate job search terms | JavaScript |
+| [**NeuroVersatilist**](https://github.com/TravisBeckwith/NeuroVersatilist) | Website | HTML |
 
 ---
 
@@ -106,6 +121,7 @@ Altmetric Attention Score 425 (top 5% of all research outputs); covered by Reute
 
 <div align="center">
 
+![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
 
 </div>
