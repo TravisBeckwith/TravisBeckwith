@@ -80,8 +80,7 @@ Organized by where each tool sits in a neuroimaging workflow — acquisition thr
 | Project | Description | Stack |
 |---|---|---|
 | [**NeuroRig**](https://github.com/TravisBeckwith/NeuroRig) | Assess your system's ability to run common MRI processing software | Python |
-| [**updoot-inator**](https://github.com/TravisBeckwith/updoot-inator) | Script to update all packages | Shell |
-| [**del-doot-inator**](https://github.com/TravisBeckwith/del-doot-inator) | Removes cached downloads and leftover files | Shell |
+| [**maintainctl**](https://github.com/TravisBeckwith/maintainctl) | System-wide update & cache-cleanup CLI (merged successor to updoot-inator + del-doot-inator) | Shell |
 
 **Other Research Tooling**
 
